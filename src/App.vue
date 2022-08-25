@@ -129,6 +129,6 @@ const randomUp = () => {
 <style>
 #app {
   display: flex;
-  margin: 1em;
+  padding: 1em;
 }
 </style>
